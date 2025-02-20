@@ -1,4 +1,4 @@
-# Nameless Teller - AI Horror Story Generator
+# Nameless Teller - Horror Story Generator
 
 Nameless Teller is a Flask-based API that generates horror stories in the style of **H.P. Lovecraft** and **Agatha Christie**, powered by Google's **Gemini AI**. The user provides a **theme**, **location**, and an **initial clue**, and the AI crafts an eerie, investigative horror story.
 
